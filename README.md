@@ -1,2 +1,3 @@
 # aien12demo
-AIEN12 Workshop Demo Res\pository
+AIEN12 Workshop Demo Respository
+DEMO ONLYS
